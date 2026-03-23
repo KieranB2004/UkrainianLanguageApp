@@ -1,0 +1,11 @@
+torch
+sentence-transformers
+transformers
+accelerate
+datasets
+faster-whisper
+speechrecognition
+pyaudio
+pyttsx3
+matplotlib
+scikit-learn
